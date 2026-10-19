@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Configurações locais
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# VSCode - configurações locais
+.vscode/
+
+# Dados grandes (habilite conforme necessário)
+dados/
